@@ -3,7 +3,6 @@ import random
 import math
 
 # initiate variables
-from typing import Any
 
 a = []
 b = 0
